@@ -1,0 +1,3 @@
+([('gui_monitor',
+   '/Users/zqwang02/Desktop/github/decibel-detection/dist/gui_monitor',
+   'EXECUTABLE')],)
